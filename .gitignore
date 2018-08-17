@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+algorithms/__pycache__/
+input/iris.csv
+main.py
+plots/simple_plot.py
+requirements.txt
+testlink_coverage.py
